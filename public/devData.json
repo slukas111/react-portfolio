@@ -1,0 +1,17 @@
+{
+    "main": {
+        "name": "Sasha Lukas",
+        "occupation": "Pythonista & ReactJS Developer",
+        "description": "Full Stack Kenzie Academy Graduate",
+        "image": "Sasha.jpeg",
+        "bio": "Hi, my name is Sasha. I'm breaking out into the tech field. Longterm love for learning.  ",
+        "contactmessage": "Please reach out to me",
+        "email": "sashamati@gmail.com",
+        "phone": "+44 12 345 6789",
+        "address": {
+            "city": "Seattle",
+            "state": "USA",
+            "zip": "98118"
+        }
+    }
+}
