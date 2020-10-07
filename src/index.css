@@ -36,3 +36,10 @@ ul.header li a {
 .active {
   background-color: #0099FF;
 }
+li {
+  display: inline;
+  font-family: "Trebutchet MS", Helvetica, Tahoma, sans-serif;
+  font-size: 24px;
+  padding-left: 10px;
+
+}
